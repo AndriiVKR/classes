@@ -35,5 +35,4 @@ public class Client {
     public void setEmail() {
         this.email = email;
     }
-
 }
